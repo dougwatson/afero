@@ -1,4 +1,4 @@
-module github.com/dougwatson/afero
+module github.com/dougwatson/afero/v1
 
 require (
 	github.com/pkg/sftp v1.10.1
